@@ -4,7 +4,6 @@
  */
 public class Point {
 
-
     // Instansvariabler
     double x; // x-koordinat
     double y; // y-koordinat
